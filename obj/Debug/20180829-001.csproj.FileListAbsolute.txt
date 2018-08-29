@@ -1,0 +1,8 @@
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\obj\Debug\20180829-001.csproj.CoreCompileInputs.cache
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\bin\Debug\20180829-001.exe.config
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\bin\Debug\20180829-001.exe
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\bin\Debug\20180829-001.pdb
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\obj\Debug\20180829-001.exe
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\obj\Debug\20180829-001.pdb
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\bin\Debug\20180829-001.exe.CodeAnalysisLog.xml
+D:\Luuk\Documents\VS2017 Projects\CSharp\20180829-001\20180829-001\bin\Debug\20180829-001.exe.lastcodeanalysissucceeded
